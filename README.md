@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emerson Medina</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer student from Argentina</h3>
+
+- 🌱 I’m currently learning **Front end && frameworks**
+
+- 📫 How to reach me **emersonmedina42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
