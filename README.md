@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerson Medina</h1>
 <h3 align="center">A passionate frontend developer student from Argentina</h3>
 
-- 🌱 I’m currently learning **ReacJs Front End**
+- 🌱 I’m **ReacJs Front End** developer
 
 - 📫 How to reach me **emersonmedina42@gmail.com**
 
