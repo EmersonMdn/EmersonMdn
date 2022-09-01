@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lumos store](https://delightful-tiramisu-00d03a.netlify.app)
 
-- 🌱 I’m currently learning **ReacJs Front End**
+- 🌱 I’m currently learning **Back end**
 
 - 💬 Ask me about **React js**
 
